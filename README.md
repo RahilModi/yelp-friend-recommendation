@@ -1,2 +1,2 @@
-# yelp-friend-recommendation
-A system to recommend friedns based on food preference using Yelp dataset
+# Friend Recommendation with Yelp dataset using Link Predection Techniques
+A system to recommend friends based on food preference using Yelp dataset
