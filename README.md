@@ -8,6 +8,11 @@ To implement these functions, this project uses following concepts:
 * Users with most common neighbors.
 * Influential users based on the useful ratings they have given at a geographic locations.
 
+NetworkX Library
+* Eigenvector Centrality
+* Cosine Similarity
+* Jaccard Coefficient
+* Prefrential Attachment
 
 ![Business Per State](visualization/businesses-per-state.png "Number of businesses per state in the Dataset")
 
